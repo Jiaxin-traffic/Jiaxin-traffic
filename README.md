@@ -1,8 +1,14 @@
-# Person profile
-Hi there 👋, I’m Jiaxin Li
+# 👋 Hi, I’m Jiaxin Li
 
 I received my master’s degree from the School of Transportation Engineering, Chang’an University, and I am currently pursuing my Ph.D. at the International Innovation Institute, Beihang University.
 
-My research interests include traffic safety, intelligent transportation systems, trajectory data analysis, and data-driven risk assessment. I am particularly interested in understanding vehicle interactions and developing methods for proactive safety evaluation in complex traffic environments.
+## 🔬 Research Interests
+
+- Highway interaction risk quantification
+- Crash-influencing factor analysis
+- Mixed traffic flow
+- Traffic characteristic inference under heterogeneous traffic environments
+
+## 📫 Welcome
 
 Welcome to my GitHub!
