@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jiaxin Li
 
-I received my master’s degree from the School of Transportation Engineering, Chang’an University, advised by Prof. Min Zhang. Now, I am currently pursuing my Ph.D. at the International Innovation Institute, Beihang University,advised by Prof. Yu Zhou.
+I received my master’s degree from the School of Transportation Engineering, Chang’an University, advised by Prof. Min Zhang. Now, I am currently pursuing my Ph.D. at the International Innovation Institute, Beihang University, advised by Prof. Yu Zhou.
 
 ## 🔬 Research Interests
 
