@@ -4,7 +4,7 @@ I received my master’s degree from the School of Transportation Engineering, C
 
 ## 🔬 Research Interests
 
-- Highway interaction risk quantification
+- Surrogate safety measures for highway interaction risk quantification
 - Crash-influencing factor analysis
 - Traffic characteristic inference under heterogeneous traffic environments
 
