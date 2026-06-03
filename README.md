@@ -1,5 +1,5 @@
 # Person profile
-Hi, I’m Jiaxin Li.
+Hi there 👋, I’m Jiaxin Li
 
 I received my master’s degree from the School of Transportation Engineering, Chang’an University, and I am currently pursuing my Ph.D. at the International Innovation Institute, Beihang University.
 
