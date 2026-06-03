@@ -6,9 +6,8 @@ I received my master’s degree from the School of Transportation Engineering, C
 
 - Highway interaction risk quantification
 - Crash-influencing factor analysis
-- Mixed traffic flow
 - Traffic characteristic inference under heterogeneous traffic environments
 
-## 📫 Welcome
-
-Welcome to my GitHub!
+## 📫 Contact
+Email: ljx2023134060@gmail.com
+Email: 1206296873@qq.com
